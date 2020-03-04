@@ -1,5 +1,10 @@
 package com.flying.creational;
 
+/**
+ * Static Singleton
+ * Lazy Loading
+ * Threadsafe
+ */
 public class Singleton {
 
     public static Singleton instance = null;
