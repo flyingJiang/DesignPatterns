@@ -1,9 +1,10 @@
-package com.flying.creational;
+package com.flying.creational.singletonPattern;
 
 /**
  * Static Singleton
  * Lazy Loading
  * Threadsafe
+ * Such as, Runtime, Logger, Spring Beans, Graphic Managers
  */
 public class Singleton {
 
